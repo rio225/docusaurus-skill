@@ -1,0 +1,80 @@
+{
+  "name": "docusaurus",
+  "version": "1.0.0",
+  "description": "Comprehensive skill for managing Docusaurus documentation sites with AI coding agents",
+  "author": "Vipul Gupta (@vipulgupta2048)",
+  "license": "MIT",
+  "repository": "https://github.com/vipulgupta2048/docusaurus-skill",
+  "organization": "Independent",
+  "date": "January 2026",
+  "abstract": "Production-ready skill for AI agents to create, edit, and manage Docusaurus documentation sites. Built from experience managing 30+ Docusaurus sites at scale. Covers documentation pages, blog posts, sidebar configuration, site settings, MDX features, and deployment workflows across major platforms.",
+  "keywords": [
+    "docusaurus",
+    "documentation",
+    "static-site-generator",
+    "mdx",
+    "react",
+    "docs-as-code",
+    "technical-writing",
+    "ai-agent",
+    "claude-code",
+    "skills"
+  ],
+  "categories": [
+    "documentation",
+    "static-sites",
+    "developer-tools"
+  ],
+  "platforms": [
+    "claude-code",
+    "claude-desktop",
+    "cursor",
+    "windsurf",
+    "github-copilot"
+  ],
+  "triggers": [
+    "docusaurus",
+    "docs site",
+    "documentation",
+    ".md files in docs/",
+    ".mdx files",
+    "docusaurus.config",
+    "sidebars.js",
+    "create doc page",
+    "add blog post",
+    "configure sidebar"
+  ],
+  "references": [
+    "https://docusaurus.io",
+    "https://docusaurus.io/docs",
+    "https://mdxjs.com"
+  ],
+  "features": {
+    "documentation": {
+      "create": true,
+      "edit": true,
+      "frontmatter": true,
+      "mdx": true
+    },
+    "blog": {
+      "posts": true,
+      "authors": true,
+      "tags": true,
+      "rss": true
+    },
+    "configuration": {
+      "sidebars": true,
+      "navbar": true,
+      "footer": true,
+      "plugins": true,
+      "themes": true
+    },
+    "deployment": {
+      "github-pages": true,
+      "vercel": true,
+      "netlify": true,
+      "cloudflare": true,
+      "docker": true
+    }
+  }
+}
